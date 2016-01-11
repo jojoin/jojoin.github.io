@@ -1,4 +1,4 @@
-yangjiePro.github.io
+jojoin.github.io
 ====================
 
-yangjiePro blog
+jojoin blog
